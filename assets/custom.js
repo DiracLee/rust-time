@@ -136,17 +136,16 @@ var initAll = function () {
     script.src = "https://giscus.app/client.js";
     script.async = true;
     script.crossOrigin = "anonymous";
-    script.setAttribute("data-repo", "sunface/rust-course");
-    script.setAttribute("data-repo-id", "MDEwOlJlcG9zaXRvcnkxNDM4MjIwNjk=");
-    script.setAttribute("data-category", "章节评论区");
-    script.setAttribute("data-category-id", "DIC_kwDOCJKM9c4COQcP");
-    script.setAttribute("data-mapping", "specific");
-    script.setAttribute("data-term", pagePath);
+    script.setAttribute("data-repo", "DiracLee/rust-time");
+    script.setAttribute("data-repo-id", "R_kgDOHj9lcg");
+    script.setAttribute("data-category", "Announcements");
+    script.setAttribute("data-category-id", "DIC_kwDOHj9lcs4CP5e9");
+    script.setAttribute("data-mapping", "pathname");
     script.setAttribute("data-reactions-enabled", "1");
-    script.setAttribute("data-emit-metadata", "0");
+    script.setAttribute("data-emit-metadata", "1");
     script.setAttribute("data-input-position", "top");
     script.setAttribute("data-theme", theme);
-    // script.setAttribute("data-lang", lang);
+    script.setAttribute("data-lang", lang);
     // 预先加载评论会更好，这样用户读到那边时，评论就加载好了
     // script.setAttribute("data-loading", "lazy");
     document.getElementById("giscus-container").appendChild(script);
