@@ -142,3 +142,15 @@ Rust 还有目前最优秀的异步处理模型，我相信假以时日，这种
 最后，你可以自己立个 Flag，哪怕只是在留言区打卡你的学习天数或者 Rust 代码行数，我相信都是会有效果的。3 个月后，我们再来一起验收。
 
 总之，让我们携手，为自己交付 “Rust 开发” 这个大技能，让 Rust 成为你的下一门主力语言！
+
+## 参考资料
+
+1. 配合课程使用：官方的 [Rust book](https://doc.rust-lang.org/book/)、微软推出的一系列 Rust 培训 [Beginner’s Series to: Rust](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)、英文书 [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) 查漏补缺
+
+2. 学完课程后进阶学习：官方的 [Rust 死灵书（The Rustonomicon）](https://doc.rust-lang.org/nomicon/)、每月一期的 [Rust 语言开源杂志](https://github.com/RustMagazine/rust_magazine_2021)、 [Jon Gjengset 的 YouTube 频道](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)、张汉东的[《Rust 编程之道》](https://book.douban.com/subject/30418895/)、B 站上[陈天的“喜欢历史的程序君”合集](https://space.bilibili.com/39222989/channel/series)。
+
+3. 学有余力的练习：Rust 代码的文档系统 [docs.rs](https://docs.rs/) 、小练习 [rustlings](https://github.com/rust-lang/rustlings)
+
+4. 社区动态：博客 [This week in Rust](https://github.com/rust-lang/this-week-in-rust) 、公众号 Rust 语言中文社区、 公众号 Rust 碎碎念
+
+5. 如果你对这个专栏怎么学还有疑惑，欢迎围观几个同学的学习方法和经历，在课程目录最后的“学习锦囊”系列，听听课代表们怎么说，相互借鉴，共同进步。直达链接也贴在这里：学习锦囊（一）、学习锦囊（二）、学习锦囊（三）确认放弃笔记？放弃后所记笔记将不保留。新功能上线，你的历史笔记已初始化为私密笔记，是否一键批量公开？批量公开的笔记不会为你同步至部落公开同步至部落取消完成0/2000划线笔记复制65
