@@ -145,7 +145,7 @@ Rust 还有目前最优秀的异步处理模型，我相信假以时日，这种
 
 ## 参考资料
 
-1. 配合课程使用：官方的 [Rust book](https://doc.rust-lang.org/book/)、微软推出的一系列 Rust 培训 [Beginner’s Series to: Rust](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)、英文书 [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) 查漏补缺
+1. 配合课程使用：陈天的 [geektime repo](https://github.com/tyrchen/geektime-rust)、官方的 [Rust book](https://doc.rust-lang.org/book/)、微软推出的一系列 Rust 培训 [Beginner’s Series to: Rust](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)、英文书 [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) 查漏补缺
 
 2. 学完课程后进阶学习：官方的 [Rust 死灵书（The Rustonomicon）](https://doc.rust-lang.org/nomicon/)、每月一期的 [Rust 语言开源杂志](https://github.com/RustMagazine/rust_magazine_2021)、 [Jon Gjengset 的 YouTube 频道](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)、张汉东的[《Rust 编程之道》](https://book.douban.com/subject/30418895/)、B 站上[陈天的“喜欢历史的程序君”合集](https://space.bilibili.com/39222989/channel/series)。
 
