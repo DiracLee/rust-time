@@ -1,4 +1,4 @@
-# Rust 时间
+# Rust 时刻
 
 [开篇词｜让Rust成为你的下一门主力语言](./0-startup/index.md)
 
