@@ -122,7 +122,7 @@ var initAll = function () {
     document.getElementById("giscus-container").appendChild(divider);
 
     // 选取浏览器默认使用的语言
-    // const lang = navigator.language || navigator.userLanguage
+    const lang = navigator.language || navigator.userLanguage
 
     // 若当前 mdbook 主题为 Light 或 Rust ，则将 giscuz 主题设置为 light
     var theme = "transparent_dark";
