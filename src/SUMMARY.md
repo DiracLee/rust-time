@@ -16,7 +16,7 @@
 
 - [03｜初窥门径：从你的第一个Rust程序开始！](./3-codeup/index.md)
 
-
+- [04｜get hands dirty：来写个实用的CLI小工具](./4-httpie/index.md)
 ---
 
 # 期中周
